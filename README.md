@@ -1,7 +1,7 @@
-## Tetsuya For MobaXterm
+# Tetsuya For MobaXterm
 My personal theme for MobaXterm
 
-# Install Instructions:
+## Install Instructions:
 
 Locate your MobaXterm.ini file within MobaXterm's directory
  - mine is in C:\Users\XXXXX\AppData\Roaming\MobaXterm
